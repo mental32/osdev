@@ -1,0 +1,3 @@
+[submodule "pdfs"]
+	path = pdfs
+	url = https://github.com/tpn/pdfs
